@@ -1,0 +1,30 @@
+{
+  "name": "tidal-tapestry-tracker",
+  "version": "1.0.1",
+  "description": "Track, predict, and visualize tidal patterns.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tidal",
+    "tapestry",
+    "tracker",
+    "ocean",
+    "sea"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nelsonedenfield/tidal-tapestry-tracker"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^4.3.4",
+    "consolidate": "^1.0.3",
+    "console": "^0.7.2",
+    "fs-extra": "^11.2.0",
+    "axios": "^0.21.1",
+    "tidal-chart-visualizer": "^1.0.0"
+  }
+}
